@@ -1,7 +1,5 @@
 # mStable Dev Grants
 
-
-
 ## Overview
 
 mStable Dev Grants are our way of funding community efforts to contribute to and grow the mStable ecosystem of products, tools, and utility.
@@ -23,7 +21,7 @@ If you have an idea which you think fits into one of the above categories, we en
 
 mStable also has a list of Requests For Proposal (RFPs) which can help you if you do not have an idea or your own or want some inspiration. They can be found in the `/rfps` folder of this repository.
 
-## Application Process 
+## Application Process 
 
 There are two ways to apply for a grant, either publicly or privately.
 
@@ -36,7 +34,7 @@ There are two ways to apply for a grant, either publicly or privately.
 - If the proposal is a direct response to an RFP, make sure to include the RFP number in the filename
 - Create a pull request to this repository from your own fork
 
-### Private Application:
+### Private Application:
 
 - Grab the markdown file from `/proposals/_template.md`
 - Modify as needed
