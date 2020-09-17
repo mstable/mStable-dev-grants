@@ -54,7 +54,7 @@ For each milestone:
 ### Overview
 * **Total Estimated Duration:** Duration of the whole project
 * **Full-time equivalent (FTE):**  Workload of an employed person ([see](https://en.wikipedia.org/wiki/Full-time_equivalent))
-* **Total Costs:** Amount of Payment for the whole project. The total amount of funding needs to be below $100k.
+* **Total Costs:** Amount of Payment for the whole project. The total amount of funding needs to be below $20k.
 
 ### Milestone 1 Example — Implement mStable SDK
 * **Estimated Duration:** 1 month
