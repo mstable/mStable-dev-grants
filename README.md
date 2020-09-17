@@ -4,7 +4,7 @@
 
 mStable Dev Grants are our way of funding community efforts to contribute to and grow the mStable ecosystem of products, tools, and utility.
 
-At this point in time, teams can apply for up to $20k in funding through the Dev Grants process. Any teams looking to secure more funding than this should consider breaking the project down into multiple grant proposals, which we will fund sequentially.
+At this point in time, teams can apply for up to $50k in funding through the Dev Grants process. Any teams looking to secure more funding than this should consider breaking the project down into multiple grant proposals, which we will fund sequentially.
 
 ## Aims
 
@@ -21,7 +21,7 @@ If you have an idea which you think fits into one of the above categories, we en
 
 mStable also has a list of Requests For Proposal (RFPs) which can help you if you do not have an idea or your own or want some inspiration. They can be found in the `/rfps` folder of this repository.
 
-## Application Process 
+## Application Process
 
 There are two ways to apply for a grant, either publicly or privately.
 
