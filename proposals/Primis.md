@@ -1,9 +1,12 @@
 # General Grant Proposal
 
-* **Project:** The name of the project
+* **Project:** Primis
 
 ## Project Overview
-If this application in response to an RFP then please indicate this on the first line of this section.
+Primis redefines the Web3 Desktop world. 
+
+In here, a basic Web3 explorer will be provided. Primis integrates all Dapps in the Web3 world and interacts Dapps with blockchains through a simple operation interface. 
+
 
 ### Overview
 
