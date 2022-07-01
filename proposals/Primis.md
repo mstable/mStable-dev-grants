@@ -3,92 +3,98 @@
 * **Project:** Primis
 
 ## Project Overview
-Primis redefines the Web3 Desktop world. 
+Primis is aimed to be the best known the **Web3 Desktop** world. 
+
+
+
+### Overview
+
+Primis redefines the **Web3 Desktop** world. 
 
 In here, a basic Web3 explorer will be provided. Primis integrates all Dapps in the Web3 world and interacts Dapps with blockchains through a simple operation interface. 
 
+Compared to hosting Dapps on the traditional Web 2.0 cloud server, now Dapps can be directly installed on nodes through a plug-in. Primis provides decentralized network services and multi-chain adaptation. Smart contracts record access point information and offer a self-updating, security, and fast method to upgrade services. 
 
-### Overview
+Primis was born with the Web3 wallet, and it created a privacy-encrypted Web3 ‘Discord’ by integrating P2P communication protocols and Zero-Knowledge Proof. Unlike the traditional Web2 chatting method, Primis provides secure privacy interaction, communication, community DAO governance, and voting through multi-channels, blogs, and open forums. 
 
-Please provide a brief description of the project.
+#### Core Components ####
+
+* Primis Wallet
+Basic functions like managing Web3 wallet assets, showing NFT assets data, and offering other Dapp assets information. Primis Wallet also supports managing fortress assets based on ZK privacy technology. 
+
+
+* P2P Communication Protocol
+The protocol supports Primis users to start P2P encrypted chats and create P2P encrypted group chats.
+
+* Primis Web3 Node Explorer
+Users can freely surf in the Web2/Web3 world through Explorer, which is kernel compatible with Chrome. Also, a multi-page plug-in page function is provided. 
+
+* Dapp Docking
+A plug-in function is available in Primis, and all Dapps can be integrated into Primis.
+Upgrade and confirm Dapps through the reliable link in the smart contract to ensure applications’ security. 
+
 
 ### Project Details
 
-Where relevant, please include
 
-* Mockups/designs/wireframes
-* API/interface definitions
-* Architecture documentation
+Primis is not only a single running node, but also a data relay network, and can also be used as a dapp client. Application can host the front-end on the Primis node, or connect the server interface to the Primis node. Application data is transmitted to the client or Primis terminal through a relay network composed of Primis nodes.
+
+Primis's node browser can extend different dapp applications, and the server or backend program can host the traffic entry on smart contract, thus getting rid of the shackles of fixed servers. 
+
+The network protocol that comes with the node can transmit data reliably and privately between different nodes. So that different services can be running in different ecosystems, including web sites, node browsers, DeFi application, GameFi entry, Social Network , etc. 
+
+The wallet function that comes with Primis provides multi-chain asset management and transaction capabilities, so that most applications can be run on the Primis desktop in the form of plug-ins, so as to achieve one ecosystem and one desktop. Even the ability of multiple ecosystems to one desktop.
+
+
 
 ## Team
 
-### Team members
-* Name of team leader
-* Names of team members
+Primis team has rich experience in the fields of the public chain, infrastructure, and defi.
+
 
 ### Team Website
-* https://your-domain
+ [https://primis.cc/](https://primis.cc/)
 
 ### Legal Structure
-Please provide the name and registered address of the legal entity executing the project.
+In progress.
 
-### Team's experience
-Please describe the team's relevant experience.
 
 ### Team Code Repos
-* https://github.com/your-repo-1
-* https://github.com/your-repo-2
+
+[https://github.com/Primis-Labs/client](https://github.com/Primis-Labs/client)
 
 ## Development Roadmap
 
-This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
+* Milestone1 (Almost Done MVP, 2 weeks)
 
-Below we provide an **example roadmap**. In the descriptions it should be clear how the project is related to mStable.
+Node Explorer
 
-For each milestone:
+Native Wallet
 
-* Please be sure to include a specification of the software. The level of detail must be enough so that we are able to verify that the software meets the specification.
-* Please include total amount of funding requested per milestone.
-* Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-* Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-* Please commit to providing a dockerfiles for the delivery of your project.
-* Please indicate the milestone duration, as well as number of Full-Time Employees working on each milestone, and include the number of days along with their cost per day.
+Dapp Hosting Platform
+
+* Milestone2 (All done, in 4 weeks)
+
+Compatible with multi-public chains
+
+* Milestone3 (All done, 4 weeks)
+
+Desocial Network - Multi Channels Privacy Forums
+
+* Milestone4 (All done, 2 weeks)
+
+Compatible with Dex, Defi Protocols & Applications
 
 ### Overview
-* **Total Estimated Duration:** Duration of the whole project
-* **Full-time equivalent (FTE):**  Workload of an employed person ([see](https://en.wikipedia.org/wiki/Full-time_equivalent))
-* **Total Costs:** Amount of Payment for the whole project. The total amount of funding needs to be below $50k.
+* **Total Estimated Duration:** Around 3 months
+* **Full-time equivalent (FTE):**  720 hours
+* **Total Costs:** $20k.
 
-### Milestone 1 Example — Implement mStable SDK
-* **Estimated Duration:** 1 month
-* **FTE:**  1
-* **Costs:** $5,000
-
-| Number | Deliverable | Specification |
-| ------------- | ------------- | ------------- |
-| 0a. | License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) create mUSD using our application. |
-| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide we will describe how to run these tests |
-| 1. | mStable SDK module: X | We will create an mStable SDK module that will... (Please list the functionality that will be coded for the first milestone) |
-| 2. | mStable SDK module: Y | We will create an mStable SDK module that will... |
-| 3. | Docker | We will provide a dockerfile to demonstrate the full functionality of our SDK |
-
-### Milestone 2 Example — Additional features
-...
-
-### Community engagement
-
-As part of the Program, we require that you produce an article/tutorial and publish it (for example on [Medium](https://medium.com/)). It should explain your work done as part of the grant.
-
-Normally, we ask you to submit the write-up upon the completion of your grant, although for larger projects it might make sense to publish multiple articles after the completion of different milestones.
 
 ## Future Plans
-Please include the team's long-term plans and intentions.
+Primis Web3 Desktop is an innovative idea and we have almost done the MVP. Primis Web3 Desktop will bring as much traffic from the different ecosystems for mStable.
 
 ## Additional Information
-Any additional information that you think is relevant to this application that hasn't already been included.
-
-Possible additional information to include:
-* What work has been done so far?
-* Are there are any teams who have already contributed (financially) to the project?
-* Have you applied for other grants so far?
+Twitter: [https://twitter.com/Primis_Official](https://twitter.com/Primis_Official)
+Github: [https://github.com/Primis-Labs/client](https://github.com/Primis-Labs/client)
+Email: contact@primis.cc
