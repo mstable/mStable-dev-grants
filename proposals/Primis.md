@@ -95,6 +95,6 @@ Compatible with Dex, Defi Protocols & Applications
 Primis Web3 Desktop is an innovative idea and we have almost done the MVP. Primis Web3 Desktop will bring as much traffic from the different ecosystems for mStable.
 
 ## Additional Information
-Twitter: [https://twitter.com/Primis_Official](https://twitter.com/Primis_Official)
-Github: [https://github.com/Primis-Labs/client](https://github.com/Primis-Labs/client)
-Email: contact@primis.cc
+* [Twitter](https://twitter.com/Primis_Official)
+* [Github](https://github.com/Primis-Labs/client)
+* [Email](contact@primis.cc)
