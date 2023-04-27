@@ -1,16 +1,33 @@
-General Grant Proposal
-Project: Qlone AI
-Project Overview
+# General Grant Proposal
+
+* **Project:** Qlone AI
+
+## Project Overview
+
 Application in response to an RFP
 With the leverage of AI&Blockchain technologies, users can seamlessly replicate their biometric data, authenticate it, manage it, and store it in the blockchain for eternity.
-Overview
+
+### Overview
+
 With the leverage of AI & Blockchain, Qlone's infrastructure is aiming to provide an all-in-one solution to generate your smart-digital AR clone. A new seamless approach on how to simulate, train, personalize, and manage AI on blockchain. The technology that innovates fields like personal AI, Gaming, Customer service, Education and more…
-Project Details
-Mockups/designs/wireframes
+
+### Project Details
+
+* Mockups/designs/wireframes
+
 https://docsend.com/view/8qrh7ugx864p2pi3
-API/interface definitions
-xxx
-Architecture documentation
+
+* API/interface definitions
+
+Communication between UI and backend developed in Representational State Transfer (REST) standart. Authentification based on bearer tokens.
+Image to image model training based also on Representational State Transfer (REST) standart communicates with cloud based stable diffusion service.
+Voice cloning based on openAI open-sourcing a neural net Whisper and managed in REST API,
+Text to speech based on Azure text-to-speech service and maanaged on REST API
+
+All detailed API specifications will be provided in https://github.com/QLONEAI repo.
+
+* Architecture documentation
+
 Adversarial Networks (GANs) 
 Variational Autoencoders (VAEs)
 Large Language Models (LoRA)
@@ -22,29 +39,41 @@ Java Script
 Python
 
 
+## Team
 
-Team
-Team members
-Name of team leader: Rysard Gvozdovic
+### Team members
 
-Names of team members:
+* Name of team leader: Rysard Gvozdovic
+
+* Names of team members:
+
 Rysard CEO: https://www.linkedin.com/in/ry%C5%A1ard-gvozdovi%C4%8D/
 Lukas CMO: https://www.linkedin.com/in/lukas-zalagaitis-9b35211b9/
 Dainius CTO: https://www.linkedin.com/in/dainiussa/
 Arvaidas Blockchain dev: https://www.linkedin.com/in/arvaidas-silgalis/
 Jonas Levinskas - 
-Team Website
+
+### Team Website
+
 Website: https://qlone.ai 
-Legal Structure
+
+### Legal Structure
+
 Registered Address: 
 Studio Meta Ltd
 2098889
 Craigmuir Chambers, Road Town, Tortola, VG 1110, British Virgin Islands
-Team's experience
+
+### Team's experience
+
 We are 5 full-time experienced core team members with more than 5 years of experience, from Vilnius, Lithuania. 3 AI and blockchain developers, Lukas CMO and Rysard CEO. With our experience in Web 3 market, vast programming knowledge and know-how skills, we decided to make something unique and innovative that you would definitely enjoy to experience. Founders have a successful background in WEB3/WEB2 markets and great work experience, CTO Dainius has a vast knowledge of AI technology and Machine Learning development, Jonas is known for his full stack and blockchain development skills, and Arvaidas is an experienced blockchain developer. All in all, we have a well-balanced team which covers all required fields to start the project successfully and expand our company. Team has direct plan how to achieve milestones and launch in the market successfully.
-Team Code Repos
+
+### Team Code Repos
+
 N/A
-Development Roadmap
+
+## Development Roadmap
+
 This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
 Below we provide an example roadmap. In the descriptions it should be clear how the project is related to mStable.
 For each milestone:
@@ -91,12 +120,17 @@ Total Costs: $30,000
 | 2. | Fully integration of mStable chain on to NFT generator to generate and synchronize collections NFTs minting in mStable chain | |  
 | 3. | Ability to manage NFT collections using mStable infrastructure for selling, tranfering and editing NFTs metadata on mStable chain | | 
 
-Community engagement
+### Community engagement
+
 A Medium article will be published which will explain how our app was developed and features of it.
-Future Plans
+
+## Future Plans
+
 We will acquire users with our growth model for 1 year, we will offer better pricing with our tools which other projects lack. Our strategy is user acquisition using our marketing plan and go-to-market strategy. We will focus on user acquisition and revenue for first year. Marketing plan: Affiliate marketing, referral systems, ad words, seo, smm (social media marketing twitter, instagram, tiktok and etc..), Kols (influencers), partnership promotions.
 Another important marketing milestone is token IDO through numerous launchpads which will give instant token/NFT holders and users. We have great connections with numerous tier 1 launchpads.
-Additional Information
+
+## Additional Information
+
 Any additional information that you think is relevant to this application that hasn't already been included.
 Possible additional information to include:
 What work has been done so far?
